@@ -1,0 +1,32 @@
+
+
+@font-face {
+    font-family: 'Ping LCG';
+	src:url('PingLCG-Bold.woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Ping LCG';
+	src: url('PingLCG-Heavy.woff2');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ping LCG';
+    src: url('PingLCG-Regular.woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ping LCG';
+    src: url('PingLCG-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+
+
